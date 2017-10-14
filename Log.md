@@ -19,3 +19,7 @@
 ## Day 06 -13th Oct 2017
 * Pandas Advanced
 * Machine Learning A-Z (udemy) Data Processing
+## Day 07 -14th Oct 2017
+* CodeFights Intro Challenge 15,16,17,18 Done
+* Overview Of Linear Regression
+* Overview Of More Pandas # Doing slow here? 
