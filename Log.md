@@ -22,4 +22,8 @@
 ## Day 07 -14th Oct 2017
 * CodeFights Intro Challenge 15,16,17,18 Done
 * Overview Of Linear Regression
-* Overview Of More Pandas # Doing slow here? 
+* Overview Of More Pandas # Doing slow here?
+## Day 08 -15th Oct 2017
+* CodeFights Intro Challenge 19,20,21 AND SQL 11,12,13
+* Bit Fun With Turtle Module of Python
+* ML Overview Of linear and multi variable linear Regression
