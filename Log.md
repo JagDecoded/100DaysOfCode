@@ -27,3 +27,10 @@
 * CodeFights Intro Challenge 19,20,21 AND SQL 11,12,13
 * Bit Fun With Turtle Module of Python
 * ML Overview Of linear and multi variable linear Regression
+## Day 09 -16th Oct 2017
+* CodeFights Intro Challenge 22,23
+## Day 10 -17th Oct 2017
+-------
+## Day 11- 18th oct 2017
+* CodeFights Intro Challenge 24,25,26,27,28,29,30
+* Python BeautifulSoup4
